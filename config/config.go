@@ -2,6 +2,12 @@ package config
 
 import "os"
 
+const (
+	ProjectName     = "claw2trae"
+	ProjectVersion  = "v0.0.1"
+	ProjectBundleID = "com.0xYeah.claw2trae"
+)
+
 type Config struct {
 	Port   string
 	DBPath string

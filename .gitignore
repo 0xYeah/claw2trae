@@ -2,5 +2,5 @@
 .vscode
 .trae/
 .idea/
-backend/wms
+wms
 node_modules/
