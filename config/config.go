@@ -4,7 +4,7 @@ import "os"
 
 const (
 	ProjectName     = "claw2trae"
-	ProjectVersion  = "v0.0.2"
+	ProjectVersion  = "v0.0.3"
 	ProjectBundleID = "com.0xYeah.claw2trae"
 )
 
