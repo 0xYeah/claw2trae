@@ -1,15 +1,13 @@
 package main
 
 import (
-	"log"
-
 	"claw2trae/backend/config"
 	"claw2trae/backend/database"
 	"claw2trae/backend/models"
 	"claw2trae/backend/routes"
-
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
+	"log"
 )
 
 func main() {
